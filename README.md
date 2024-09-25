@@ -15,7 +15,6 @@ Para rodar este projeto, você precisará de:
 📌 Versão
 
 	•	Versão 1.0: Implementação inicial do projeto.
-	•	Versão 1.1: Refatoração do código e melhoria na lógica. Data: 09/09/2024.
 
 ✒️ Autores
 
